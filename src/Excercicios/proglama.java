@@ -1,4 +1,4 @@
-package Excercicios;
+package excercicios;
 public class proglama {
 	public static void main(String args[]){
 		int declareumavariavelquerepresenteumnumerointeiroeiniciecomovalor10 = 10;

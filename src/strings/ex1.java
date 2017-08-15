@@ -1,4 +1,4 @@
-package todayisgonabyadgoodday;
+package strings;
 
 public class ex1 {
 	public static void main(String args[]){

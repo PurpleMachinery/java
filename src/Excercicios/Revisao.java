@@ -1,4 +1,4 @@
-package Excercicios;
+package excercicios;
 public class Revisao {
 	public static void main(String args[]){
 		/*int i = 10;

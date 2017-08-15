@@ -1,4 +1,4 @@
-package Excercicios;
+package excercicios;
 public class Texto {
 	public static void main(String args[]){
 		String str = "Isto é uma String do Java";

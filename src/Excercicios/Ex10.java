@@ -1,4 +1,4 @@
-package Excercicios;
+package excercicios;
 public class Ex10 {
 	public static void main(String args[]){
 		double x=1;

@@ -1,4 +1,4 @@
-package Excercicios;
+package excercicios;
 public class Excercicios {
 	public static void main(String args[]){
 		String sexto, cursodejava = "Curso de Java";
