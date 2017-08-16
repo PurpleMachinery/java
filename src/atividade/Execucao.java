@@ -1,6 +1,6 @@
 package atividade;
 
-public class Execucao extends Pessoa {
+public class Execucao {
 	public static void main(String args[]) {
 		PessoaFisica pf = new PessoaFisica();
 		pf.setRg(555555555);
